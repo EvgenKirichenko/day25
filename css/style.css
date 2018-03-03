@@ -54,3 +54,13 @@ body {
 	border: 1px solid rgb(234, 162, 88);
 	text-decoration: none;
 }
+.art-link-btn a:hover{
+	text-transform: uppercase;
+	display: inline-block;
+	font-size: 18px;
+	font-weight: 700;
+	padding: 27px 75px;
+	color: #fff;
+	text-decoration: none;
+	background-color: rgb(234, 162, 88);
+}

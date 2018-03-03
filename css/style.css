@@ -10,7 +10,7 @@ body {
 	color: #aeaeae;
 	background-color: #fff;
 	margin: 0;
-	padding: 130px 100px;
+	padding: 40px 30px;
 }
 .art-container{
 	margin: 0 auto;
@@ -18,7 +18,7 @@ body {
 	background-color: #fff;
 }
 .art-article-body{
-	padding: 140px 123px 140px 123px;
+	padding: 80px 65px;
 	box-shadow: 0px 4px 68px 0px rgba(0, 0, 0, 0.1);
 	}
 .art-header h1{
@@ -39,19 +39,18 @@ body {
    }
 .art-blockquote{
 	 font-size: 24px;
+	 line-height: 1;
 	 font-style: italic;
 	 font-weight: 300;
 	 margin-top: 0;
-
 }
 .art-link-btn a{
+	text-transform: uppercase;
+	display: inline-block;
 	font-size: 18px;
 	font-weight: 700;
 	padding: 27px 75px;
 	color: rgb(234, 162, 88);
 	border: 1px solid rgb(234, 162, 88);
 	text-decoration: none;
-}
-.art-link-btn{
-	margin-top: 66px;
 }
